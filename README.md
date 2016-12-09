@@ -1,6 +1,6 @@
 # command_hello
 
   - [x] TEST1
-  - [] TEST2
+  - [ ] TEST2
   
   
